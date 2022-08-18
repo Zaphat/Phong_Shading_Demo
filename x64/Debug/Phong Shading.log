@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\DELL\Downloads\Phong_Shading_Demo-main\src\graphics\models\cube.hpp(66,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Downloads\Phong_Shading_Demo-main\src\graphics\models\sphere.hpp(24,26): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\DELL\Downloads\Phong_Shading_Demo-main\src\graphics\models\sphere.hpp(47,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Downloads\Phong_Shading_Demo-main\src\graphics\models\sphere.hpp(49,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Downloads\Phong_Shading_Demo-main\src\graphics\models\sphere.hpp(52,38): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+C:\Users\DELL\Downloads\Phong_Shading_Demo-main\src\graphics\models\sphere.hpp(52,51): warning C4838: conversion from 'unsigned int' to 'unsigned short' requires a narrowing conversion
+C:\Users\DELL\Downloads\Phong_Shading_Demo-main\src\graphics\models\sphere.hpp(52,68): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+C:\Users\DELL\Downloads\Phong_Shading_Demo-main\src\graphics\models\sphere.hpp(52,89): warning C4838: conversion from 'unsigned int' to 'unsigned short' requires a narrowing conversion
+C:\Users\DELL\Downloads\Phong_Shading_Demo-main\src\graphics\models\sphere.hpp(58,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\Downloads\Phong_Shading_Demo-main\src\graphics\models\pyramid.hpp(46,36): warning C4018: '<': signed/unsigned mismatch
+  Phong Shading.vcxproj -> C:\Users\DELL\Downloads\Phong_Shading_Demo-main\x64\Debug\Phong Shading.exe
